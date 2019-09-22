@@ -1,2 +1,2 @@
 # ha-01-starter
-starter repository for first ha
+Все есть кроме предпоследнего задания
